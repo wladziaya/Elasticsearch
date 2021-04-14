@@ -17,4 +17,5 @@ http://localhost:9200
 
 4. Встановити всі потрібні залежності командою `npm i` або `npm install` 
 
->Доповідь знаходиться [тут](./elasticsearch.md)
+>Доповідь знаходиться [тут](./doc/elasticsearch.md)
+
