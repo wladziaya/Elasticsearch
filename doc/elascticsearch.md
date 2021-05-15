@@ -197,7 +197,6 @@ Dashboard-и підтримують багато типів панелей і м
 
 ![](../src/images/example2_6.png)
 
-
 # Матеріал підготувала 
 Cтудентка групи ІВ-91
 <br> *Яременко Влада* - [wladziaya](https://github.com/wladziaya)
